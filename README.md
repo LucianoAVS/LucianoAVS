@@ -3,7 +3,10 @@
 🔭 Working with AI-based indoor localization.
 👩‍💻 Currently studying Software Engineering atUniCesumar. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucianoAVS=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucianoAVS=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucianoAVS=anuraghazra&show_icons=true&theme=shadow_red)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?LucianoAVS=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![LucianoAVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAVS)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LucianoAVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LucianoAVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LucianoAVS's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

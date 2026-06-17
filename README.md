@@ -15,3 +15,7 @@
  
   <a href="https://www.linkedin.com/in/luciano-antonio-vergilio-da-silva-9a0b70249" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+Lan
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)">
+

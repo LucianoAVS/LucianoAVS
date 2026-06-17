@@ -3,7 +3,7 @@
 🔭 Working with AI-based indoor localization. /
    Trabalhando no desenvolvimento de AI-based indoor localization.
 
-👩‍💻 Currently studying Software Engineering atUniCesumar. /
+👩‍💻 Currently studying Software Engineering at UniCesumar. /
     Atualmente cursando Engenharia de Software na UniCesumar.
 
 [![LucianoAVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)

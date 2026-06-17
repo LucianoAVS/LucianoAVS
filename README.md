@@ -23,6 +23,7 @@ Languages I'm learning. / Linguagens que estou aprendendo. <div style="display: 
   <img align="center" alt="Rafa-Csharp" height="30" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 </div>
 Languages I plan to learn. / Linguagens que pretendo estudar. 
+
 <div style="display: inline-block;">
   <img align="center" alt="Rafa-Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Rafa-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

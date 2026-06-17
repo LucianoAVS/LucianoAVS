@@ -18,5 +18,5 @@
 
 Lan
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)">
 </div>

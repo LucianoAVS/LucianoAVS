@@ -1,19 +1,19 @@
 ## 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00001010 
 
-🔭 Working with AI-based indoor localization.
+🔭 Working with AI-based indoor localization. /
    Trabalhando no desenvolvimento de AI-based indoor localization.
 
-👩‍💻 Currently studying Software Engineering atUniCesumar.
+👩‍💻 Currently studying Software Engineering atUniCesumar. /
     Atualmente cursando Engenharia de Software na UniCesumar.
 
 [![LucianoAVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
-📧 Contact me at lucianoavs03@gmail.com
+📧 Contact me at / Entre em contato em lucianoavs03@gmail.com
 
 
 <a href="mailto:lucianoavs03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- How to find me
+ How to find me / Como me achar
  
   <a href="https://www.linkedin.com/in/luciano-antonio-vergilio-da-silva-9a0b70249" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

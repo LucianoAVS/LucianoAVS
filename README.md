@@ -18,5 +18,5 @@
 
 Lan
 <div style="display: inline-block;">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+  <img align="center" alt="Rafa-Csharp" height="30" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 </div>

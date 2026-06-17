@@ -17,8 +17,7 @@
 <a href="https://www.linkedin.com/in/luciano-antonio-vergilio-da-silva-9a0b70249" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Languages I'm learning. / Linguagens que estou aprendendo.
-<div style="display: inline-block;">
+Languages I'm learning. / Linguagens que estou aprendendo. <div style="display: inline-block;">
   <img align="center" alt="Rafa-Csharp" height="30" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 </div>
 Languages I plan to learn. / Linguagens que pretendo estudar. 

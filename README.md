@@ -12,9 +12,7 @@ Atualmente cursando Engenharia de Software na UniCesumar.
   </a>
 </p>
 
-<table>
-<tr>
-<td width="70%">
+<img align="right" src="assets/image2323.png" width="250">
 
 ### 📧 Contact me / Entre em contato
 
@@ -32,19 +30,16 @@ Atualmente cursando Engenharia de Software na UniCesumar.
 
 <br><br>
 
-### 📚 Languages I'm learning / Linguagens que estou aprendendo
+### Languages I'm learning / Linguagens que estou aprendendo
 
-<img align="center" height="30" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+<img height="30" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 
 <br><br>
 
-### 🎯 Languages I plan to learn / Linguagens que pretendo estudar
+### Languages I plan to learn / Linguagens que pretendo estudar
 
-<img align="center" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-</td>
-
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <td align="center">
 
 <img src="assets/image2323.png" width="250">

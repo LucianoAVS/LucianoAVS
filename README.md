@@ -6,7 +6,11 @@
 👩‍💻 Currently studying Software Engineering at UniCesumar. /
     Atualmente cursando Engenharia de Software na UniCesumar.
 
-[![LucianoAVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=shadow_red" alt="LucianoAVS's GitHub stats" />
+  </a>
+</p>
 
 📧 Contact me at / Entre em contato em lucianoavs03@gmail.com
 

@@ -12,6 +12,8 @@
   </a>
 </p>
 
+<div align="center"> <img src="assets/image2323.png " width="250"> </div>
+
 📧 Contact me at / Entre em contato em lucianoavs03@gmail.com
 
 <a href="mailto:lucianoavs03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

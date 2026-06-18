@@ -40,10 +40,4 @@ Atualmente cursando Engenharia de Software na UniCesumar.
 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<td align="center">
 
-<img src="assets/image2323.png" width="250">
-
-</td>
-</tr>
-</table>

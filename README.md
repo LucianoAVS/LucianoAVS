@@ -43,3 +43,4 @@ Atualmente cursando Engenharia de Software na UniCesumar.
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
 
+![snake gif](https://github.com/LucianoAVS/LucianoAVS/blob/output/github-snake-dark.svg)

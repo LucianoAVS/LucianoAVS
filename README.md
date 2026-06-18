@@ -38,6 +38,8 @@ Atualmente cursando Engenharia de Software na UniCesumar.
 
 ### Languages I plan to learn / Linguagens que pretendo estudar
 
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<p>
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</p>
 

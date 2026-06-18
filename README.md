@@ -12,7 +12,7 @@ Atualmente cursando Engenharia de Software na UniCesumar.
   </a>
 </p>
 
-<img align="right" src="assets/image2323.png" width="250">
+<img align="right" src="b9630351-21f8-4837-9603-01524cda1591-removebg-preview.png" width="250">
 
 ### 📧 Contact me / Entre em contato
 

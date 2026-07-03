@@ -1,10 +1,8 @@
 ## 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00001010
 
-🔭 Working with AI-based indoor localization.  
-Trabalhando no desenvolvimento de AI-based indoor localization.
+Working with AI-based indoor localization.  
 
-👩‍💻 Currently studying Software Engineering at UniCesumar.  
-Atualmente cursando Engenharia de Software na UniCesumar.
+Currently studying Software Engineering at UniCesumar.  
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

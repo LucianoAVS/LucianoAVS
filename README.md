@@ -2,14 +2,6 @@
 
 Currently studying Software Engineering at UniCesumar.  
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucianoAVS&show_icons=true&theme=shadow_red" alt="LucianoAVS's GitHub stats" />
-  </a>
-</p>
-
-<img align="right" src="b9630351-21f8-4837-9603-01524cda1591-removebg-preview.png" width="250">
-
 ### 📧 Contact me / Entre em contato
 
 <a href="mailto:lucianoavs03@gmail.com">

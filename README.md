@@ -1,7 +1,5 @@
 ## 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00001010
 
-Working with AI-based indoor localization.  
-
 Currently studying Software Engineering at UniCesumar.  
 
 <p align="center">

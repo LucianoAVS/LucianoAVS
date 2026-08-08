@@ -1,5 +1,11 @@
 ## 🐀
 
+<p align="center">
+  <img src="ChatGPT Image 8 de ago. de 2026, 16,06,42.png" width="30%" />
+  <img src="ChatGPT Image 8 de ago. de 2026, 16,06.48.png" width="30%" /> 
+  <img src="ChatGPT Image 8 de ago. de 2026, 16,00,52.png" width="30%" />
+</p>
+
 Currently studying Software Engineering at UniCesumar.  
 
 ### 📧 Contact me / Entre em contato

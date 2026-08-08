@@ -1,24 +1,31 @@
-<div style="display: flex; justify-content: flex-start; margin-bottom: 10px;">
-  <img src="banner1.png.png" width="60%" />
-</div>
+<!-- LINHA 1: Banner 1 (topo esquerdo) -->
+<p align="left">
+  <img src="banner1.png.png" width="35%" />
+</p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
-  <div style="display: flex; gap: 10px; width: 30%;">
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  </div>
-  <div style="width: 60%;">
-    <img src="banner3.png.png" width="100%" />
-  </div>
-</div>
+<!-- LINHA 2: Banner3 (rato) na ESQUERDA e Ícones na DIREITA -->
+<table>
+  <tr>
+    <td width="50%" align="left">
+      <img src="banner3.png.png" width="70%" />
+    </td>
+    <td width="50%" align="right">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <div style="width: 70%;">
-    <img src="banner2.png.png" width="100%" />
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/seu-perfil">
-      <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
-    </a>
-  </div>
-</div>
+<!-- LINHA 3: Banner2 (esquerda) + LinkedIn (direita, ao lado) -->
+<table>
+  <tr>
+    <td width="70%" align="left">
+      <img src="banner2.png.png" width="80%" />
+    </td>
+    <td width="30%" align="left">
+      <a href="https://www.linkedin.com/in/seu-perfil">
+        <img src="linkedin.png" height="35" />
+      </a>
+    </td>
+  </tr>
+</table>

@@ -1,9 +1,9 @@
 ## 🐀
 
 <p align="center">
-  <img src="ChatGPT Image 8 de ago. de 2026, 16,06,42.png" width="30%" />
-  <img src="ChatGPT Image 8 de ago. de 2026, 16,06.48.png" width="30%" /> 
-  <img src="ChatGPT Image 8 de ago. de 2026, 16,00,52.png" width="30%" />
+  <img src="ChatGPT%20Image%208%20de%20ago.%20de%202026%2C%2016%2C06%2C42.png" width="30%" />
+  <img src="ChatGPT%20Image%208%20de%20ago.%20de%202026%2C%2016%2C06.48.png" width="30%" /> 
+  <img src="ChatGPT%20Image%208%20de%20ago.%20de%202026%2C%2016%2C00%2C52.png" width="30%" />
 </p>
 
 Currently studying Software Engineering at UniCesumar.  

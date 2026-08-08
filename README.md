@@ -1,11 +1,5 @@
 ## 🐀
 
-<p align="center">
-  <img src="imag1.png" width="30%" />
-  <img src="imag2.png" width="30%" /> 
-  <img src="imag3.png" width="30%" />
-</p>
-
 Currently studying Software Engineering at UniCesumar.  
 
 ### 📧 Contact me / Entre em contato

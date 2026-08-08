@@ -1,3 +1,5 @@
+Currently studying Software Engineering at UniCesumar.
+
 <p align="left">
   <img src="banner1.png.png" width="35%" />
 </p>

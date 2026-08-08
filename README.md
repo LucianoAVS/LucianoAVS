@@ -1,5 +1,11 @@
 ## 🐀
 
+<p align="center">
+  <img src="banner1.png.png" width="30%" />
+  <img src="banner2.png.png" width="30%" /> 
+  <img src="banner3.png.png" width="30%" />
+</p>
+
 Currently studying Software Engineering at UniCesumar.  
 
 ### 📧 Contact me / Entre em contato

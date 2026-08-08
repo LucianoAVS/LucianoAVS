@@ -1,36 +1,24 @@
-<!-- LINHA 1: Banner 1 (topo esquerdo) -->
-<p align="left">
+<div style="display: flex; justify-content: flex-start; margin-bottom: 10px;">
   <img src="banner1.png.png" width="60%" />
-</p>
+</div>
 
-<!-- LINHA 2: Ícones (esquerda) + Banner 3 (direita) -->
-<table>
-  <tr>
-    <td width="50%" align="left">
-      <!-- Ícones das linguagens (lado esquerdo) -->
-      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-      <!-- Adicione mais ícones aqui se quiser -->
-    </td>
-    <td width="50%" align="right">
-      <!-- Banner 3 (lado direito) -->
-      <img src="banner3.png.png" width="90%" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+  <div style="display: flex; gap: 10px; width: 30%;">
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  </div>
+  <div style="width: 60%;">
+    <img src="banner3.png.png" width="100%" />
+  </div>
+</div>
 
-<!-- LINHA 3: Banner 2 (esquerda) + LinkedIn ao lado -->
-<table>
-  <tr>
-    <td width="70%" align="left">
-      <!-- Banner 2 -->
-      <img src="banner2.png.png" width="80%" />
-    </td>
-    <td width="30%" align="left">
-      <!-- Ícone do LinkedIn ao lado do banner 2 -->
-      <a href="https://www.linkedin.com/in/seu-perfil">
-        <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="width: 70%;">
+    <img src="banner2.png.png" width="100%" />
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/seu-perfil">
+      <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
+    </a>
+  </div>
+</div>

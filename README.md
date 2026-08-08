@@ -1,40 +1,36 @@
-## 🐀
-
-<p align="center">
-  <img src="banner1.png.png" width="30%" />
-  <img src="banner2.png.png" width="30%" /> 
-  <img src="banner3.png.png" width="30%" />
+<!-- LINHA 1: Banner 1 (topo esquerdo) -->
+<p align="left">
+  <img src="banner1.png.png" width="60%" />
 </p>
 
-Currently studying Software Engineering at UniCesumar.  
+<!-- LINHA 2: Ícones (esquerda) + Banner 3 (direita) -->
+<table>
+  <tr>
+    <td width="50%" align="left">
+      <!-- Ícones das linguagens (lado esquerdo) -->
+      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+      <!-- Adicione mais ícones aqui se quiser -->
+    </td>
+    <td width="50%" align="right">
+      <!-- Banner 3 (lado direito) -->
+      <img src="banner3.png.png" width="90%" />
+    </td>
+  </tr>
+</table>
 
-### 📧 Contact me / Entre em contato
-
-<a href="mailto:lucianoavs03@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-### 🌐 How to find me / Como me achar
-
-<a href="https://www.linkedin.com/in/luciano-antonio-vergilio-da-silva-9a0b70249" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-### Languages I'm learning / Linguagens que estou aprendendo
-
-<img height="30" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
-
-<br><br>
-
-### Languages I plan to learn / Linguagens que pretendo estudar
-
-<p>
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</p>
-
-![snake gif](https://github.com/LucianoAVS/LucianoAVS/blob/output/github-snake-dark.svg)
+<!-- LINHA 3: Banner 2 (esquerda) + LinkedIn ao lado -->
+<table>
+  <tr>
+    <td width="70%" align="left">
+      <!-- Banner 2 -->
+      <img src="banner2.png.png" width="80%" />
+    </td>
+    <td width="30%" align="left">
+      <!-- Ícone do LinkedIn ao lado do banner 2 -->
+      <a href="https://www.linkedin.com/in/seu-perfil">
+        <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
+      </a>
+    </td>
+  </tr>
+</table>

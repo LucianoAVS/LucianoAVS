@@ -1,9 +1,9 @@
 Currently studying Software Engineering at UniCesumar.
 
 <p align="left">
-  <img src="banner1.png.png" width="35%" />
+  <img src="banner1.png.png" width="50%" />
 </p>
-<img src="banner3.png.png" width="45%" align="right" />
+<img src="banner3.png.png" width="35%" align="right" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=c,python,html" height="50" align="right" />
 <br clear="both">
